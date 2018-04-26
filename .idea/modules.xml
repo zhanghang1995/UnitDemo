@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UnitDemo.iml" filepath="$PROJECT_DIR$/UnitDemo.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\百度UINIT开发\UnitSDK.iml" filepath="C:\Users\Administrator\Desktop\百度UINIT开发\UnitSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\百度UINIT开发\app\app.iml" filepath="C:\Users\Administrator\Desktop\百度UINIT开发\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baiduasr/baiduasr.iml" filepath="$PROJECT_DIR$/baiduasr/baiduasr.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\百度UINIT开发\baiduasr\baiduasr.iml" filepath="C:\Users\Administrator\Desktop\百度UINIT开发\baiduasr\baiduasr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatkit/chatkit.iml" filepath="$PROJECT_DIR$/chatkit/chatkit.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\百度UINIT开发\chatkit\chatkit.iml" filepath="C:\Users\Administrator\Desktop\百度UINIT开发\chatkit\chatkit.iml" />
+    </modules>
+  </component>
+</project>
